@@ -26,9 +26,9 @@ Elemente, die nicht Teil des Lastenhefts sind und erst im Pflichtenheft dazu kom
 
 #### 8.2 Anwendungsfälle
 
-#### 8.3 Objektmodelle *(PF)*
+#### 8.3 Objektmodelle *(PF)* *(nicht verpflichtend)*
 
-#### 8.4 Dynamische Modelle *(PF)*
+#### 8.4 Dynamische Modelle *(PF)* *(nicht verpflichtend)*
 
 #### 8.5 Benutzerschnittstelle *(PF)*
 * Bildschirmskizzen
