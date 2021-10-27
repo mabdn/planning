@@ -3,7 +3,10 @@ Im folgenden definieren, **was allgemein** inhaltlich im Pflichtenheft stehen wi
 Elemente, die nicht Teil des Lastenhefts sind und erst im Pflichtenheft dazu kommen sind mit *(PF)* markiert.
 
 ### 1. Zielbestimmung
-* Was ist der Zweck des Produkts?
+* Was ist der Zweck des Produkts (Zwischen 1. und 1.1?)
+#### 1.1 Musskriterien 
+#### 1.2 Wunschkriterien 
+#### 1.3 Abgrenzungskriterien 
 
 ### 2. Produkteinsatz
 
