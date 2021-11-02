@@ -9,7 +9,7 @@ bookmarks=true,%
 }
 \usepackage{graphicx}       % provides commands for including figures
 \usepackage{csquotes}       % provides \enquote{} macro for "quotes"
-\usepackage[nonumberlist]{glossaries}     % provides glossary commands
+\usepackage[nonumberlist, numberedsection, section=subsection]{glossaries}     % provides glossary commands
 \usepackage{enumitem}
 
 \makenoidxglossaries
@@ -96,8 +96,12 @@ bookmarks=true,%
 \newcommand{\paragraphashead}[1]{\paragraph{#1}\mbox{}\\\\}
 
 \begin{document}
-
+\begin{titlepage} 
 \maketitle
+\end{titlepage}
+\newpage
+\tableofcontents
+\newpage
 
 %
 % % Hier beginnt die Gliederung des Lastenhefts
@@ -270,6 +274,7 @@ Spezielle Anforderungen
 % % Automatisch generiertes Glossar (Latex zwei mal ausführen um Glossar anzuzeigen)
 %
 %\glsaddall % das sorgt dafür, dass alles Glossareinträge gedruckt werden, nicht nur die verwendeten. Das sollte nicht nötig sein!
+\section{Anhang}
 \printnoidxglossaries
 
 \end{document}
